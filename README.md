@@ -1,4 +1,5 @@
 Estructura del Proyecto
+
 Este proyecto contiene la siguiente estructura de archivos:
 
 ![image](https://github.com/user-attachments/assets/a909d96d-8543-4077-97e3-b64ca4516668)
